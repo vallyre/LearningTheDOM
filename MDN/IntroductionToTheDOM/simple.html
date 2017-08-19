@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Simple HTML For Test</title>
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <h1>A Simple HTML File</h1>
+        <p>We will be using this file to test the capabilities of the jsdom library.</p>       
+        <ul>
+            <li>Can we assert on elements within an HTML file?</li>
+            <li>How do we load Javascript programs to execute?</li>
+                <ul>
+                    <li>Outside the test environment?</li>
+                    <li>Using the <code>&lt;script&gt;</code> tag?</li>
+                </ul>
+            <li>How do we call the loaded Javascript functions within the test environment?</li>
+            <li>How do we load jQuery for the test environment?</li>
+            <ul>
+                <li>Ideally, jQuery needs to be visible to the loaded Javascript functions operation on the HTML within jsdom.</li>
+                <li>Can we load jQuery outside of jsdom and still have it be visible to the loaded Javascript functions?</li>
+            </ul>
+        </ul>
+    </body>
+</html>
