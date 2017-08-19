@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-clip"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"in",
+				"interpolation"
+			],
+			[
+				"cla",
+				"cla\tclass .. end"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"assert",
+				"assert_equal"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"code",
+				"code\tTag"
+			],
+			[
+				"title",
+				"title\tAttr"
+			],
+			[
+				"dat",
+				"datetime\tAttr"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"des",
+				"describe\tDescribe"
+			],
+			[
+				"it",
+				"it\tit() testing"
+			],
+			[
+				"hm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"priv",
+				"priv_func"
+			],
+			[
+				"return",
+				"return_array_and_hash"
+			],
+			[
+				"sub",
+				"sub\tFunction"
+			],
+			[
+				"su",
+				"subtest_streamed"
+			],
+			[
+				"for",
+				"fore\tLoop"
+			],
+			[
+				"cities",
+				"cities_countries"
+			],
+			[
+				"is",
+				"is_deeply"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"ex",
+				"export"
+			],
+			[
+				"befor",
+				"beforeeach\tBefore Each"
+			],
+			[
+				"storage",
+				"storageName"
+			],
+			[
+				"befo",
+				"beforeeach\tBefore Each"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ericricketts/Documents/LearningTheDOM"
+	],
+	"file_history":
+	[
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/fundamental-css-comprehension/index.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/fundamental-css-comprehension/style.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/learning-area-master/accessibility/assessment-finished/style.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/fundamental-css-comprehension/style1.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/fundamental-css-comprehension/index1.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/box-model/index4.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/box-model/style4.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/box-model/style3.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/box-model/index3.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/box-model/index2.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/box-model/style2.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/cascade-and-inheritance/style1.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/combinators-and-multiple-selectors/index2.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/combinators-and-multiple-selectors/style2.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/combinators-and-multiple-selectors/style1.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/combinators-and-multiple-selectors/index1.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/pseudo-class-and-pseudo-element-selectors/style3.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/pseudo-class-and-pseudo-element-selectors/index3.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/pseudo-class-and-pseudo-element-selectors/style2.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/pseudo-class-and-pseudo-element-selectors/index2.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/pseudo-class-and-pseudo-element-selectors/index1.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/style7.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/index7.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/index6.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/style5.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/index5.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/style4.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/index4.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/style3.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/index3.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/style2.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/index2.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/style1.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/index1.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/how-css-works/style2.css",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/how-css-works/index.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/how-css-works/style.css",
+		"/Users/ericricketts/Documents/TDDForEET/solutions/exercise1.pl",
+		"/Users/ericricketts/Documents/TDDForEET/solutions/exercise1.t",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/html/introduction-to-html/structuring-a-page-of-content/index.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/learning-area-master/html/introduction-to-html/structuring-a-page-of-content-finished/index.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/learning-area-master/html/introduction-to-html/marking-up-a-letter-finished/index.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/html/introduction-to-html/marking-up-a-letter/letter-text.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSS/introduction-to-html/creating-hyperlinks/getting-started.html",
+		"/Users/ericricketts/Documents/LearningJavascript/package.json",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSS/the-html-head/title-example.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSS/getting_started_with_html.html",
+		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSS/meta_data_head.html",
+		"/Users/ericricketts/Documents/LearningJavascript/.babelrc",
+		"/Users/ericricketts/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/ericricketts/Documents/LearningHTTP/curl/post-request-url-parameters.txt",
+		"/Users/ericricketts/Documents/LearningHTTP/curl/verbosedump.txt",
+		"/Users/ericricketts/Documents/LearningPerl/subroutines/test_subroutines.pl",
+		"/Users/ericricketts/.cpanm/work/1496186368.16955/build.log",
+		"/Users/ericricketts/hello.pl",
+		"/Users/ericricketts/.cpanm/work/1495998048.17921/build.log",
+		"/Users/ericricketts/.cpanm/work/1495997710.944/build.log",
+		"/Users/ericricketts/Documents/LearningPerl/variable_scope/hello.rb",
+		"/Users/ericricketts/Documents/LearningPerl/data/test_data.pl",
+		"/Users/ericricketts/Documents/LearningPerl/references/test_references.pl",
+		"/Users/ericricketts/Documents/LearningPerl/references/cities_countries.txt",
+		"/home/eric_ricketts/Documents/LearningPerl/syntax/test1.t",
+		"/home/eric_ricketts/Documents/Javascript/MyReactProjects/hello-word/public/index.html",
+		"/home/eric_ricketts/Documents/Javascript/MyReactProjects/hello-word/src/logo.svg",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/libs/connect.jsx",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/stores/NoteStore.js",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/actions/NoteActions.js",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/components/Note.jsx",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/components/Notes.jsx",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/index.jsx",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/libs/persist.js",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/components/Editable.jsx",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/components/Provider/Provider.dev.jsx",
+		"/home/eric_ricketts/Documents/Javascript/kanban-app/app/libs/storage.js",
+		"/home/eric_ricketts/Documents/Javascript/YouDontKnowJavascript/README.md",
+		"/home/eric_ricketts/.git-credentials"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"255",
+			"United Kingdom",
+			"0",
+			"      </",
+			"node"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learning-the-dom.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style",
+				"learning-area-master/accessibility/assessment-finished/style.css"
+			],
+			[
+				"style1",
+				"HTMLAndCSSAndJavascript/css/introduction-to-css/box-model/style1.css"
+			],
+			[
+				"style2.css",
+				"HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/combinators-and-multiple-selectors/style2.css"
+			],
+			[
+				"index4",
+				"HTMLAndCSSAndJavascript/css/introduction-to-css/css-selectors/simple-selectors/index4.html"
+			],
+			[
+				"inl",
+				"HTMLAndCSSAndJavascript/css/introduction-to-css/how-css-works/inline-styles.html"
+			],
+			[
+				"exer",
+				"solutions/exercise1.pl"
+			],
+			[
+				"structuring-a-page-of-content",
+				"learning-area-master/html/introduction-to-html/structuring-a-page-of-content-finished/index.html"
+			],
+			[
+				"structuring",
+				"HTMLAndCSSAndJavascript/html/introduction-to-html/structuring-a-page-of-content/index.html"
+			],
+			[
+				"marking-up-a-letter",
+				"learning-area-master/html/introduction-to-html/marking-up-a-letter-finished/index.html"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"titl",
+				"HTMLAndCSS/the-html-head/title-example.html"
+			],
+			[
+				"gett",
+				"HTMLAndCSS/getting_started_with_html.html"
+			],
+			[
+				"post",
+				"curl/post-request-url-parameters.txt"
+			],
+			[
+				"test_s",
+				"subroutines/test_subroutines.pl"
+			],
+			[
+				"",
+				"references/test_references.pl"
+			],
+			[
+				"cit",
+				"references/cities_countries.txt"
+			],
+			[
+				".bash_per",
+				".bash_profile"
+			],
+			[
+				".bashr",
+				".bashrc"
+			],
+			[
+				"index.html",
+				"hello-word/public/index.html"
+			],
+			[
+				"index.js",
+				"hello-word/src/index.js"
+			],
+			[
+				"package.json",
+				"hello-word/package.json"
+			],
+			[
+				"app.js",
+				"src_users/components/App.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"lanestore",
+				"app/stores/LaneStore.js"
+			],
+			[
+				"lane",
+				"app/actions/LaneActions.js"
+			],
+			[
+				"note",
+				"app/components/Note.jsx"
+			],
+			[
+				"notes.",
+				"app/components/Notes.jsx"
+			],
+			[
+				"lanehea",
+				"app/components/LaneHeader.jsx"
+			],
+			[
+				"app.j",
+				"app/components/App.jsx"
+			],
+			[
+				"lanes",
+				"app/components/Lane.jsx"
+			],
+			[
+				"lanes.jsx",
+				"app/components/Lanes.jsx"
+			],
+			[
+				"con",
+				"app/libs/connect.jsx"
+			],
+			[
+				"notestore",
+				"app/stores/NoteStore.js"
+			],
+			[
+				"notea",
+				"app/actions/NoteActions.js"
+			],
+			[
+				"setup.js",
+				"app/components/Provider/setup.js"
+			],
+			[
+				"editable",
+				"app/components/Editable.jsx"
+			],
+			[
+				"notes",
+				"app/components/Notes.jsx"
+			],
+			[
+				"connect",
+				"app/libs/connect.jsx"
+			],
+			[
+				"app",
+				"app/components/App.jsx"
+			],
+			[
+				"provider",
+				"app/components/Provider/Provider.dev.jsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
