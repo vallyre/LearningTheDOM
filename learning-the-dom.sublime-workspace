@@ -148,10 +148,19 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "MDN/IntroductionToTheDom/simple.html",
 			"settings":
 			{
-				"buffer_size": 257,
+				"buffer_size": 1181,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MDN/IntroductionToTheDOM/test_simple.js",
+			"settings":
+			{
+				"buffer_size": 583,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -201,10 +210,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ericricketts/Documents/LearningTheDOM"
+		"/Users/ericricketts/Documents/LearningTheDOM",
+		"/Users/ericricketts/Documents/LearningTheDOM/MDN"
 	],
 	"file_history":
 	[
+		"/Users/ericricketts/Documents/LearningTheDOM/MDN/IntroductionToTheDOM/index.html",
+		"/Users/ericricketts/Documents/LearningTheDOM/README.md",
 		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/fundamental-css-comprehension/index.html",
 		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/HTMLAndCSSAndJavascript/css/introduction-to-css/fundamental-css-comprehension/style.css",
 		"/Users/ericricketts/Documents/LearningHTMLAndCSSAndJavascript/learning-area-master/accessibility/assessment-finished/style.css",
@@ -320,29 +332,57 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "MDN/IntroductionToTheDom/simple.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 257,
+						"buffer_size": 1181,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								256,
-								256
+								1181,
+								1181
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "MDN/IntroductionToTheDOM/test_simple.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
