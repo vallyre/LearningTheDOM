@@ -1,4 +1,3 @@
-var GenerateText = require('./generate_text.js');
 var fs = require('fs');
 var html = fs.readFileSync('./MDN/IntroductionToTheDOM/simple.html', 'utf8');
 
@@ -7,12 +6,15 @@ var plugin = require('chai-jq');
 chai.use(plugin);
 var expect = chai.expect;
 
-var JSDOM = require('jsdom').JSDOM;
-var jsdom = new JSDOM(html);
-var window = jsdom.window;
-var $ = global.jQuery = require('jquery')(window);
+var jsdom = require("jsdom/lib/old-api.js");
+global.document = jsdom.jsdom(html);
+global.window = document.defaultView;
+var $ = require('jquery');
 
+var GenerateText = require('./generate_text.js');
+var InsertText = require('./insert_text.js');
 var text = new GenerateText();
+var insert = new InsertText();
 
 describe('Traversing the DOM', function () {
        
@@ -33,4 +35,13 @@ describe('Testing functions which do not manipulate the DOM', function () {
         expect(text.generate_list_text(2)).to.deep.equal([ ['a', 'A'], ['b', 'B'] ]);
     });
 
+});
+
+describe('Testing functions which do manipulate the DOM', function () {
+
+    it('should add a paragraph with text', function () {
+        var paragraph_text = text.generate_paragraph();
+        insert.insert_paragraph(paragraph_text);
+        expect($('p')).to.have.length(2);           
+    });
 });

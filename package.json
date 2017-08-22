@@ -5,11 +5,14 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "browser-env": "^3.1.2",
     "chai": "^4.1.1",
     "chai-jq": "0.0.9",
     "jquery": "^3.2.1",
-    "jsdom": "^11.1.0",
-    "mocha": "^3.5.0"
+    "jsdom": "11.2.0",
+    "jsdom-global": "3.0.2",
+    "mocha": "^3.5.0",
+    "window": "^4.1.2"
   },
   "scripts": {
     "test": "mocha"
